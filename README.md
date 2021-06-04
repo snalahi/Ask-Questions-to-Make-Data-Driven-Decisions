@@ -31,3 +31,5 @@ Structured thinking is the process of recognizing the current problem or situati
 
 
 
+
+
