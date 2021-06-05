@@ -47,12 +47,23 @@ Revenue, is the number of sales multiplied by the sales price. (# of sales x sal
 
 ROI, or Return on Investment is essentially a formula designed using metrics that let a business know how well an investment is doing. The ROI is made up of two metrics, the net profit over a period of time and the cost of investment. By comparing these two metrics, profit and cost of investment, the company can analyze the data they have to see how well their investment is doing. 
 
+First Method:
 ROI = Profit / Cost of Investment
-where Profit = Current Value of Investment - Cost of Investment
+      Net Income / Cost of Investment
+      Return (Benefit) / Investment (Cost)
+
+Second Method:
+ROI = ((Final Value of Investment - Initial Value of Investment) / Cost of Investment) x 100%
 
 Customer retention rates can help the company compare the number of customers at the beginning and the end of a period to see their retention rates. 
 
 Metric goal is a measurable goal set by a company and evaluated using metrics.
+
+Bed Occupancy Rate = (Total number of inpatient days for a given period x 100) / (Available beds x Number of days in the period)
+
+
+
+
 
 
 
