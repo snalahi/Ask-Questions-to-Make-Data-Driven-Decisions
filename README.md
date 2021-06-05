@@ -59,7 +59,29 @@ Customer retention rates can help the company compare the number of customers at
 
 Metric goal is a measurable goal set by a company and evaluated using metrics.
 
+Metrics are measures of quantitative assessment commonly used for assessing, comparing, and tracking performance or production.
+
 Bed Occupancy Rate = (Total number of inpatient days for a given period x 100) / (Available beds x Number of days in the period)
+
+Formulas are built on operators which are symbols that name that type of operation or calculation to be performed.
+
+A cell reference is a single cell or range of cells in a worksheet that can be used in a formula.
+
+A range of cells is a collection of two or more cells.
+
+A function is a preset command that automatically performs a specific process or task using the data.
+
+Problem domain: the specific area of analysis that encompasses every activity affecting or affected by the problem.
+
+Structured thinking is the process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying the options. The starting place for structured thinking is the problem domain.
+
+A scope of work or SOW is an agreed-upon outline of the work you're going to perform on a project.
+
+
+
+
+
+
 
 
 
