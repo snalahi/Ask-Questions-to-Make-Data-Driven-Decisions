@@ -77,6 +77,27 @@ Structured thinking is the process of recognizing the current problem or situati
 
 A scope of work or SOW is an agreed-upon outline of the work you're going to perform on a project.
 
+Context is the condition in which something exists or happens.
+
+W / H questions are so important regarding the context of the data.
+
+#### A data analyst asks who, what, when, where, why, and how in order to put information into context.
+
+Formulas are created by the user, whereas functions are preset commands in spreadsheets.
+
+Stakeholders are people that have invested time, interest, and resources into the projects that you'll be working on as a data analyst.
+
+Turnover rate is the rate at which employees leave a company.
+
+Project managers are in charge of planning and executing a project. Part of the project manager's job is keeping the project on track and overseeing the progress of the entire team.
+
+## There are three things you can focus on that will help you stay on task:
+#### 1. Who are the primary and secondary stakeholders?
+#### 2. Two who is managing the data?
+#### 3. Where can you go for help?
+
+
+
 
 
 
