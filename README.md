@@ -96,49 +96,9 @@ Project managers are in charge of planning and executing a project. Part of the 
 #### 2. Two who is managing the data?
 #### 3. Where can you go for help?
 
+There are four key questions data analysts ask themselves: Who is my audience? What do they already know? What do they need to know? And how can I communicate effectively with them?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Using historical data to make informed decisions about how things may be in the future is an example of making predictions.
 
 
 
